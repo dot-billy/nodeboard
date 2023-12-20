@@ -25,7 +25,9 @@ Nodeboard simplifies managing digital assets. It allows users to add, update, an
     1. Create your account
     2. Subscribe
     3. Start adding your sites, services, etc.
-    4. Optional, invite teammates to halp manage or utilize your growing inventory.
+    4. Optional, invite teammates to halp manage or utilize your growing inventor
+    5. Optional, setup 2FA
+    6. Setup an API Key so that you can automate your management of your nodes.
 
 
 ## Examples
