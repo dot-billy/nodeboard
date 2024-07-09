@@ -10,7 +10,7 @@ Nodeboard simplifies managing digital assets. It allows users to add, update, an
 
 - **Efficient Management**: Easily add, update, and remove nodes.
 - **Searchable Interface**: Find nodes by Name, Tag, or IP.
-- **Affordable Pricing**: $2/month or $20/year per team.
+- **Affordable Pricing**: $5/month or $35/year per team.
 - **REST API**: Facilitates automation with a RESTful API.
 - **Multi-Team Support**: Suitable for multiple teams and users.
 - **Enhanced Security**: Optional two-factor authentication (2FA) for added security.
