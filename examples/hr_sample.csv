@@ -1,0 +1,5 @@
+hostname,url,ip_address,notes,description,os_type,kernel_version,os_version,serial_number,ram,cpu_type,cpu_cores,uptime,tags
+hr-server1,http://hr.example.com,192.168.10.1,Primary HR Server,Linux Server,Linux,5.4.0-42-generic,Ubuntu 20.04,HR123456,8,Intel Xeon,4,up 5 days,HR,Server,Production
+hr-database1,http://hrdb.example.com,192.168.10.2,HR Database Server,Database Server,Linux,4.15.0-99-generic,Ubuntu 18.04,DB654321,16,Intel Xeon,8,up 12 days,HR,Database,Production
+hr-web1,http://hrweb.example.com,192.168.10.3,HR Web Server,Web Server,Linux,4.15.0-99-generic,Ubuntu 18.04,WEB987654,8,Intel Xeon,4,up 20 days,HR,Web,Staging
+
