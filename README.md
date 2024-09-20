@@ -36,6 +36,6 @@ See `examples` directory for practical use cases and integration techniques.
 
 ## Support and Community
 
-For support, reach out at [support@nodeboard.io](mailto:support@nodeboard.io).
+For support, reach out at [help@deltaops.tech](mailto:help@deltaops.tech).
 
 Thank you for your interest in Nodeboard!
