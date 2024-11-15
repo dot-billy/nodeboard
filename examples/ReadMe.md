@@ -10,9 +10,6 @@
 
 4. Copy down the API key as it'll only appear once.
 
-localhost api:
-
-xU03CmpM.UsXIZjH57dky13zb2byniaLrBZFyqO8V
 
 ### Obtain your UniFi API Key:
 
@@ -55,3 +52,7 @@ Ensure your CSV file is formatted as follows, with headers:
 hostname,url,ip_address,notes,description,tags
 "Example Site 1","http://example.com","192.168.1.1","Main server","Server","production,web"
 "Example Site 2","http://example.org","192.168.1.2","Backup server","Server","backup,archive"
+
+
+`python3 script.py <team_name> <api_key> <csv_file>`
+`python3 script.py my_team ABC123DEF456 managed_sites.csv`
