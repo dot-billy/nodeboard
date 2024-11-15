@@ -54,5 +54,5 @@ hostname,url,ip_address,notes,description,tags
 "Example Site 2","http://example.org","192.168.1.2","Backup server","Server","backup,archive"
 
 
-`python3 script.py <team_name> <api_key> <csv_file>`
-`python3 script.py my_team ABC123DEF456 managed_sites.csv`
+`python3 add_nodes_generic.py <team_name> <api_key> <csv_file>`
+`python3 add_nodes_generic.py my_team ABC123DEF456 managed_sites.csv`
